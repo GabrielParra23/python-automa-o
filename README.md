@@ -1,0 +1,1 @@
+Meu objetivo neste projeto era fazer a transferencia de todos os dados para um site ficticio, para isso utilizei da linguagem python para deixar todo o processo automatico porem ela está configurada apenas para o meu computador 
